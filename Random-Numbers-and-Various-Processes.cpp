@@ -1,5 +1,4 @@
-//1211201118 hayashi yuka 
-//もう少し時間あればmodeを改良したかった
+
 #include <iostream>
 #include <ctime>
 #include <math.h>
